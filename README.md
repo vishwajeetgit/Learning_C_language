@@ -1,2 +1,3 @@
+# Author : Vishwajeet Kumar
 # Learning_C_language
 This repo is all about simple C programs like ( addition, subtration, mulitplication, divison, and so on and so on.......
