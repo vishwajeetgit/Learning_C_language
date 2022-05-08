@@ -1,13 +1,14 @@
-
-
-
-
-//Author : Vishwajeet kumar
-//Write a program to print this type of triangle.
- 
-//Expected output::
-
 /*
+
+============================
+ Author : Vishwajeet kumar
+ Email  : vcnvim@gmail.com
+============================
+
+Write a program to print this type of triangle.
+ 
+Expected output::
+
 Enter a number:) 9
         *
        * *

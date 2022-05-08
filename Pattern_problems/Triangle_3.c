@@ -1,7 +1,9 @@
-// Solver : Vishwajeet kumar
-// Write a program to print this type of triangle pattern.
 /*
-   
+============================
+ Author : Vishwajeet kumar
+ Email  : vcnvim@gmail.com
+============================
+Q.Write a program to print this type of triangle pattern.
 
 #Expected output:
 

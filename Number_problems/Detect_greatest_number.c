@@ -31,14 +31,10 @@ int main(){
     printf("Enter 5th number:)");
     scanf("\n%d",&e);
     max = a;
-    if( b > max)
-	max = b;
-    if(c > max)
-	max = c;
-    if(d > max)
-	max = d;
-    if(e > max)
-	max = e;
+    if(b > max) max = b;
+    if(c > max) max = c;
+    if(d > max) max = d;
+    if(e > max) max = e;
     printf("The max number is %d.", max);
     return 0;
 }

@@ -1,9 +1,11 @@
 /*
  
+============================
+ Author : Vishwajeet kumar
+ Email  : vcnvim@gmail.com
+============================
+ 
 Q. Write a program to print this type of pattern.
-
-Author: Vishwajeet kumar.
-
 
 #Expected output:
 
